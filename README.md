@@ -1,20 +1,26 @@
 # careConnect
 DeKUT hackathon project from 1st  July to 7th July
 
+# Team 38 Members
+
+- [KIPTOO CALEB](https://github.com/kiptoobarchok)
+- [NOEL STEPHEN OSALA]()
+- [CECILIA KIPTOO]()
+- [VALENTINE LANGIRI]() 
+- [JOSEPTH WATHIKA]() 
+
 
 ## Overview
 
-The Health Emergency App is designed to facilitate faster access to transportation and ambulances during health emergencies, especially in rural areas. Inspired by ride-sharing services, the app allows users to request help with a one-tap emergency button, track their location, and communicate with volunteers and drivers. It also offers health tips, first aid training, and a rewards system for active volunteers.
+[MedSwift]() is designed to facilitate faster access to transportation and ambulances during health emergencies, especially in rural areas. Inspired by ride-sharing services, the app allows users to request help with a one-tap emergency button, track their location, and communicate with volunteers and drivers. It also offers health tips, first aid training, and a rewards system for active volunteers.
 
 ### Table of Contents
+- Contributors
 - Features
 - Technical Stack
 - Installation
 - Usage
 - API Documentation
-- Contributing
-- License
-
 
 #### Features
 **_User Registration_**
