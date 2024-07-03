@@ -1,4 +1,4 @@
-# careConnect
+# medSwift
 DeKUT hackathon project from 1st  July to 7th July
 
 # Team 38 Members
