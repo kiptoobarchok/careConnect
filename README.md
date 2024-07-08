@@ -100,7 +100,7 @@ DeKUT hackathon project from 1st  July to 7th July
 
 
 ### Challenges
-1. Learning New Languages/Frameworks
+1. [Learning New Languages/Frameworks]()
 __Challenges:_
 - Steep learning curve
 - Understanding best practices and design patterns
@@ -118,7 +118,7 @@ _Solutions:_
 
 - Pair Programming: Collaborate with someone 
 
-2. Using APIs
+2. [Using APIs]()
 _Challenges:_
 
 - Understanding API documentation
@@ -135,7 +135,7 @@ Rate Limiting: Implement retry logic and respect API rate limits.
 Security: Use HTTPS, secure API keys, and follow best practices for handling sensitive data.
 
 Tutorials and Examples: Look for example projects and tutorials that use the same or similar APIs.
-3. Time Management
+3. [Time Management]()
 _Challenges:_
 
 - Balancing the project with other commitments
@@ -150,7 +150,7 @@ Prioritization: Focus on the most critical features first (MVP approach).
 
 Regular Reviews: Set aside regular times to review progress and adjust the plan as needed.
 
-4. Debugging and Troubleshooting
+4. [Debugging and Troubleshooting]()
 _Challenges:_
 
 - Identifying and fixing bugs
@@ -166,7 +166,7 @@ Profiling Tools: Use profiling tools to identify performance bottlenecks.
 
 Testing: Write unit tests, integration tests, and use automated testing frameworks.
 
-5. User Experience (UX) and User Interface (UI) Design
+5. [User Experience (UX) and User Interface (UI) Design]()
 __Challenges:_
 - Creating an intuitive and appealing design
 - Ensuring accessibility and responsiveness
@@ -182,7 +182,7 @@ UI Libraries: Utilize UI libraries and frameworks like Bootstrap, Material-UI, o
 
 Accessibility: Follow web accessibility guidelines (WCAG) to ensure your app is usable by everyone.
 
-6. Backend Development
+6. [Backend Development]()
 _Challenges:_
 
 - Setting up servers and databases
@@ -196,7 +196,7 @@ Frameworks: Use backend frameworks like Express (Node.js), Django (Python), or S
 
 Security Best Practices: Implement authentication, authorization, data encryption, and regular security audits.
 
-7. Version Control
+7. [Version Control]()
 _Challenges:_
 - Managing code versions and collaboration
 
