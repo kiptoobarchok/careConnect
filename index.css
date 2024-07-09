@@ -7,16 +7,38 @@
 }
 
 
+header{
+   margin-top:10px ;
+   margin-bottom: 40px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+
+header p { 
+   color: rgb(83, 83, 250);
+   line-height: 1px;
+   letter-spacing: 0.37rem;
+   margin-top: 10px;
+}
+
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+    
+    /* height: 100vh; */
 }
 
 
+.body-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
 
 .container{
+    
     background-color: #fff; 
     box-shadow: 9px 5px 20px 2px rgb(110, 106, 106);
     border-radius: 20px;
