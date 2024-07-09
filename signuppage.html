@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Sign Up page</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="container" id="container">
+            <div class="form-container sign-up">
+                
+                <form >
+                    <h2>Sign UP</h2>
+                    <!-- <label for="fname">First Name : </label> -->
+                    <input type="text" placeholder="Enter your Name" name="fname"><br>
+                    <!-- <label for="lname">last Name : </label> -->
+                    <!-- <input type="text" placeholder="Enter your Last Name" name="lname"><br> -->
+                    <!-- <label for="email">Email : </label> -->
+                    <input type="email" placeholder="Enter your Email" name="Email"><br>
+                    <!-- <label for="number">Enter your phone number</label> -->
+                    <input type="tel" placeholder="Enter your phonenumber" name="phonenumber">
+                    <input type="password" placeholder="Enter your password" name="password">
+                    <input type="password" placeholder="Confirm your password" name="password">
+                   <button>Sign Up</button>
+                    <span>or sign up with the following below</span>
+                  <div class="social-icons">
+                    <a href="" > <i class="fa-brands fa-google"></i></i></a>
+                    <a href=""><i class="fa-brands fa-instagram"></i>
+                    </a>
+                    <a href=""><i class="fa-brands fa-facebook"></i>
+                    </a>
+                   </div>
+                </form>
+            </div>
+
+          
+
+
+            <div class="form-container sign-in">
+                <form >
+                    <H2>Sign In/Log In</H2>
+                    <!-- <label for="email">Email : </label>  -->
+                    <input type="email" placeholder="Enter your Email" name="Email"><br>
+                    <!-- <label for="number">Enter your password: </label> -->
+                    <input type="password" placeholder="Enter your password" name="psswd">
+                    <a href="#">Forgot Your password ??</a>
+                    <button>Sign In</button>
+                    <span>or sign in with the following </span>
+                    <div class="social-icons">
+                    
+                        <a href="" ><i class="fa-brands fa-google"></i></i></a>
+                        <a href=""><i class="fa-brands fa-instagram"></i>
+                        </a>
+                        <a href=""><i class="fa-brands fa-facebook"></i>
+                        </a>
+                    </div>
+
+                </form>
+            </div>
+            <div class="toggle-container">
+                <div class="toggle">
+                    <div class="toggle-panel toggle-left">
+                        <h2>Welcome back !! </h2>
+                        <p>Enter your personal details to use all the site features</p>
+                        <button class="hidden" id="logIn">Log in</button>
+                    </div>
+                    <div class="toggle-panel toggle-right">
+                        <h2>Hello Friend</h2>
+                        <p>Register your personal details to use all the site features</p>
+                        <button class="hidden" id="register">Sign Up</button>
+                    </div> 
+                </div>
+            </div>
+              <!-- <div class=" form-container" id="password">
+                <form >
+                    <input type="password" name="pwd" id="passwd" placeholder="Enter your password">
+                    <input type="password" name="cpwd" id="confirmpasswd" placeholder="Confirm your password">
+                </form>
+
+            </div> -->
+        </div>
+
+        
+        
+        
+        <script src="index.js" ></script>
+    </body>
+</html>
